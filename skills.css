@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:"Oswald";
+    background-color:#E0FFFE;
+    
+}
+.skills{
+    background: #E0FFFE;
+    width: 100%;
+    padding:100px 0px;
+    
+}
+.title h2{
+    
+    color:indigo;
+    font-size:75px;
+    width: 1130px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.pra p{
+    color:blue;
+    font-size: 18px;
+    line-height: 27px;
+    margin-bottom: 25px;
+
+}

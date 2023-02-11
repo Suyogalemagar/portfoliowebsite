@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:"Oswald";
+    box-sizing: border-box;
+}
+
+.Suyog{
+    height: 100vh;
+    width: 100%;
+    background-color:#E0FFFF;
+    background-position: center;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content:space-between ;
+    padding-top: 45px;
+    padding-right:8% ;
+    padding-left: 8%;
+
+}
+.logo{
+    color:yellowgreen;
+    font-size:35px ;
+    letter-spacing: 1px;
+    cursor:pointer;
+    
+}
+span{
+    color:blue;
+
+}
+nav ul li{
+list-style-type:none;
+display:inline-block;
+padding: 10px 25px;
+}
+nav ul li a{
+    color:#000080;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+
+}
+nav ul li a:hover{
+    color: #00BFFF;
+    transition: .4s;
+    
+
+}
+img{
+    height:600px ;
+    width: auto;
+    border-radius: 50%;
+    background-size:cover ;
+    float: right;
+    padding-right: 20px;
+    
+}
+.content{
+    position: absolute;
+    top: 50%;
+    left: 8%;
+    transform: translateY(-50%);
+
+
+}
+h1{
+    color:rgb(12, 165, 236);
+    margin:20px 0px 20px;
+
+}
+h3{
+    color:gold;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+h4{
+    color:#008B8B;
+   letter-spacing:2px;
+    font-size: 20px;
+}
+
+
+
